@@ -83,5 +83,5 @@
   다음 홈페이지 : <https://www.daum.net/>
 
   ### 이미지(images)
-  ![naver](https://www.naver.com/)
+  ![naver](https://naverpa-phinf.pstatic.net/MjAyMjAzMzBfMTA3/MDAxNjQ4NjA0NjU3Mzk1.ApvPkal8Xo1c2lYIwTngoUUzYktZdOzzdVsz_Wowbrcg.kXZTHlO0QZDYnP16aVGYdo00DNKcNTqw-Tn-NwK1lmsg.PNG/DuneGirl_1.png)
 
